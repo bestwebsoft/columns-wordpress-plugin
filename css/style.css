@@ -22,7 +22,6 @@
 	margin-left: 10px;
 }
 .clmns_settings_form .wp-picker-holder {
-	position: absolute;
 	z-index: 2;
 }
 .clmns-background-block {
@@ -31,6 +30,12 @@
 }
 .clmns-background-block img {
 	max-width: 50%;
+}
+.rtl #delete-link {
+	float: left;
+}
+.rtl #clmns_widget_background_opacity {
+	margin-left: 10px;
 }
 @media screen and (max-width: 440px) {
 	#clmns_slider {

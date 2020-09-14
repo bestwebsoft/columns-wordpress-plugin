@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: columns-bws-plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-24 14:08+0200\n"
-"PO-Revision-Date: 2019-12-25 13:45+0200\n"
+"POT-Creation-Date: 2020-09-04 09:25+0300\n"
+"PO-Revision-Date: 2020-09-04 12:33+0300\n"
 "Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
 "Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
 "Language: ua\n"
@@ -13,19 +13,20 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: bws_menu\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
 
 #: columns-bws.php:36 includes/class-clmns-add-new.php:24
 msgid "Columns"
-msgstr ""
+msgstr "Cтовпці"
 
-#: columns-bws.php:39 includes/class-clmns-add-new.php:175
+#: columns-bws.php:39 includes/class-clmns-add-new.php:176
 msgid "Edit Columns"
 msgstr "Редагувати стовпці"
 
-#: columns-bws.php:39 columns-bws.php:41 includes/class-clmns-add-new.php:175
+#: columns-bws.php:39 columns-bws.php:41 includes/class-clmns-add-new.php:176
 msgid "Add New"
 msgstr "Додати новий"
 
@@ -34,8 +35,8 @@ msgstr "Додати новий"
 msgid "Columns Settings"
 msgstr "Налаштування стовпців"
 
-#: columns-bws.php:44 columns-bws.php:515 columns-bws.php:897
-#: columns-bws.php:911 includes/class-clmns-add-new.php:25
+#: columns-bws.php:44 columns-bws.php:515 columns-bws.php:902
+#: columns-bws.php:916 includes/class-clmns-add-new.php:25
 #: includes/class-clmns-settings.php:21
 msgid "Settings"
 msgstr "Налаштування"
@@ -52,15 +53,15 @@ msgstr "стовпці"
 msgid "Edit"
 msgstr "Редагувати"
 
-#: columns-bws.php:329 columns-bws.php:391 includes/class-clmns-add-new.php:264
+#: columns-bws.php:329 columns-bws.php:391 includes/class-clmns-add-new.php:265
 msgid "Delete"
 msgstr "Видалити"
 
-#: columns-bws.php:332 columns-bws.php:551
+#: columns-bws.php:332 columns-bws.php:553
 msgid "no title"
 msgstr "без назви"
 
-#: columns-bws.php:361 includes/class-clmns-add-new.php:295
+#: columns-bws.php:361 includes/class-clmns-add-new.php:296
 msgid "Title"
 msgstr "Назва"
 
@@ -84,15 +85,15 @@ msgstr "Стовпці видалено."
 msgid "Search Columns"
 msgstr "Пошук стовпців"
 
-#: columns-bws.php:559
+#: columns-bws.php:561
 msgid "Sorry, no columns found."
 msgstr "Вибачте, стовпців не знайдено."
 
-#: columns-bws.php:773
+#: columns-bws.php:778
 msgid "Sorry, nothing found."
 msgstr "Вибачте, нічого не знайдено."
 
-#: columns-bws.php:811
+#: columns-bws.php:816
 msgid ""
 "You are about to remove these items from this slider.\n"
 " 'Cancel' to stop, 'OK' to delete."
@@ -100,7 +101,7 @@ msgstr ""
 "Ви збираєтесь видалити ці елементи з цього слайдера.\n"
 "\"Скасувати\", щоб зупинити, \"ОК\", щоб видалити."
 
-#: columns-bws.php:812
+#: columns-bws.php:817
 msgid ""
 "You are about to remove this item from the slider.\n"
 " 'Cancel' to stop, 'OK' to delete."
@@ -108,55 +109,55 @@ msgstr ""
 "Ви збираєтесь видалити цей елемент із повзунка.\n"
 "\"Скасувати\", щоб зупинити, \"ОК\", щоб видалити."
 
-#: columns-bws.php:813
+#: columns-bws.php:818
 msgid "Insert Media"
 msgstr "Вставка медіа"
 
-#: columns-bws.php:814
+#: columns-bws.php:819
 msgid "Insert"
 msgstr "Вставити"
 
-#: columns-bws.php:815
+#: columns-bws.php:820
 msgid "No images found"
 msgstr "Зображень не знайдено"
 
-#: columns-bws.php:856
+#: columns-bws.php:861
 msgid "Columns per page"
 msgstr "Стовпців на сторінці"
 
-#: columns-bws.php:912
+#: columns-bws.php:917
 msgid "FAQ"
 msgstr "FAQ"
 
-#: columns-bws.php:913
+#: columns-bws.php:918
 msgid "Support"
 msgstr "Підтримка"
 
-#: includes/class-clmns-add-new.php:156
+#: includes/class-clmns-add-new.php:157
 msgid "Columns updated."
 msgstr "Стовпці оновлено."
 
-#: includes/class-clmns-add-new.php:177
+#: includes/class-clmns-add-new.php:178
 msgid "Add New Columns"
 msgstr "Додати нові стовпці"
 
-#: includes/class-clmns-add-new.php:187
+#: includes/class-clmns-add-new.php:188
 msgid "Enter title here"
 msgstr "Введіть тут назву"
 
-#: includes/class-clmns-add-new.php:196 includes/class-clmns-add-new.php:202
+#: includes/class-clmns-add-new.php:197 includes/class-clmns-add-new.php:203
 msgid "Publish"
 msgstr "Опублікувати"
 
-#: includes/class-clmns-add-new.php:202
+#: includes/class-clmns-add-new.php:203
 msgid "Update"
 msgstr "Оновити"
 
-#: includes/class-clmns-add-new.php:213
+#: includes/class-clmns-add-new.php:214
 msgid "Columns Shortcode"
 msgstr "Шорткод"
 
-#: includes/class-clmns-add-new.php:216
+#: includes/class-clmns-add-new.php:217
 msgid ""
 "Add Columns to your posts, pages, custom post types or widgets by using the "
 "following shortcode:"
@@ -164,58 +165,58 @@ msgstr ""
 "Додайте стовпці до своїх публікацій, сторінок, спеціальних типів публікацій "
 "або віджетів, використовуючи наступний короткий код:"
 
-#: includes/class-clmns-add-new.php:235
+#: includes/class-clmns-add-new.php:236
 msgid "Columns Content"
 msgstr "Вміст стовпців"
 
-#: includes/class-clmns-add-new.php:250
+#: includes/class-clmns-add-new.php:251
 msgid "Add New Column"
 msgstr "Додати новий стовпець"
 
-#: includes/class-clmns-add-new.php:261
+#: includes/class-clmns-add-new.php:262
 msgid "Column"
 msgstr "Стовпець"
 
-#: includes/class-clmns-add-new.php:269 includes/class-clmns-add-new.php:416
+#: includes/class-clmns-add-new.php:270 includes/class-clmns-add-new.php:416
 #: includes/class-clmns-add-new.php:427
 msgid "Image"
 msgstr "Зображення"
 
-#: includes/class-clmns-add-new.php:272 includes/class-clmns-add-new.php:430
+#: includes/class-clmns-add-new.php:273 includes/class-clmns-add-new.php:430
 msgid "Add Media"
 msgstr "Додати медіа"
 
-#: includes/class-clmns-add-new.php:288
+#: includes/class-clmns-add-new.php:289
 msgid "Numerical Value of Title"
 msgstr "Числове значення заголовка"
 
-#: includes/class-clmns-add-new.php:291
+#: includes/class-clmns-add-new.php:292
 msgid "Quantitative measure related to the title of the column."
 msgstr "Кількісна міра, пов’язана з назвою колонки."
 
-#: includes/class-clmns-add-new.php:301
+#: includes/class-clmns-add-new.php:302
 msgid "Description"
 msgstr "Короткий опис"
 
-#: includes/class-clmns-add-new.php:307
+#: includes/class-clmns-add-new.php:308
 msgid "Display Button"
 msgstr "Відображати кнопку"
 
-#: includes/class-clmns-add-new.php:310
+#: includes/class-clmns-add-new.php:311
 msgid "Enable to display custom button."
 msgstr "Увімкнути для відображення користувацької кнопки."
 
-#: includes/class-clmns-add-new.php:314
+#: includes/class-clmns-add-new.php:315
 msgid "Button Text"
 msgstr "Текст кнопки"
 
-#: includes/class-clmns-add-new.php:320
+#: includes/class-clmns-add-new.php:321
 msgid "Button Link"
 msgstr "Посилання кнопки"
 
 #: includes/class-clmns-add-new.php:340
-msgid "Number of Column"
-msgstr "Номер стовпця"
+msgid "Number of Columns"
+msgstr "Кількість стовпців"
 
 #: includes/class-clmns-add-new.php:343
 msgid "Number of columns in a row."
@@ -226,16 +227,16 @@ msgid "Column Alignment"
 msgstr "Вирівнювання стовпців"
 
 #: includes/class-clmns-add-new.php:350
-msgid "Center"
-msgstr "Центр"
-
-#: includes/class-clmns-add-new.php:351
 msgid "Left"
 msgstr "Зліва"
 
-#: includes/class-clmns-add-new.php:352
+#: includes/class-clmns-add-new.php:351
 msgid "Right"
 msgstr "Зправа"
+
+#: includes/class-clmns-add-new.php:352
+msgid "Center"
+msgstr "Центр"
 
 #: includes/class-clmns-add-new.php:357
 msgid "Style"
@@ -330,7 +331,7 @@ msgid "Bootstrap"
 msgstr ""
 
 #: includes/class-clmns-settings.php:70
-msgid "Enable if your theme uses Bootstrap."
+msgid "Enable if your theme doesn't use Bootstrap."
 msgstr "Увімкніть, якщо ваша тема використовує Bootstrap."
 
 #~ msgid "All plugin settings were restored."

@@ -17,8 +17,8 @@
 	padding-left: 40px;
 	padding-top: 20px;
 }
-.column-bws-icon-background_center-wrapper .clmns-column-background-wrapper {
-	background-position: center center;
+.columns-bws-icon-background_center-wrapper{
+	background-position: center;
 }
 .column-bws-icon-left_title-wrapper .column-bws-column-icon {
 	padding-right: 35px;

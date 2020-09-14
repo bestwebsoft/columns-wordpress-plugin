@@ -3,8 +3,8 @@ Contributors: bestwebsoft
 Donate link: https://bestwebsoft.com/donate/
 Tags: plugin, wordpress, pages, posts, column, columns, widgets, customize, forms, content, individual, background, row, simple
 Requires at least: 4.5
-Tested up to: 5.3.2
-Stable tag: 1.0.0
+Tested up to: 5.5.1
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -105,10 +105,18 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 
 == Changelog ==
 
+= V1.0.1 - 14.09.2020 = 
+* Bugfix : The bug with Color widget Background was fixed.
+* Bugfix : The bug with background image was fixed.
+* Update : BWS plugins section is updated.
+
 = V1.0.0 - 06.02.2020 = 
 * NEW : Plugin was added.
 
 == Upgrade Notice ==
+
+= V1.0.1 =
+* Bugs fixed.
 
 = V1.0.0 =
 * Plugin optimization completed.

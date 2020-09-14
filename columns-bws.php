@@ -6,7 +6,7 @@ Description: Add columns with custom content to WordPress website pages, posts, 
 Author: BestWebSoft
 Text Domain: columns-bws
 Domain Path: /languages
-Version: 1.0.0
+Version: 1.0.1
 Author URI: https://bestwebsoft.com/
 License: GPLv3 or later
 */
@@ -33,7 +33,8 @@ License: GPLv3 or later
 if ( ! function_exists( 'clmns_add_admin_menu' ) ) {
 	function clmns_add_admin_menu() {
 		/* Add custom menu page */
-		$column_general_page = add_menu_page( __( 'Columns', 'columns-bws' ), __( 'Columns', 'columns-bws' ), 'manage_options', 'columns.php', 'clmns_table_page_render', 'none', 45.1 );
+		$column_general_page = add_menu_page( 'Columns', 'Columns', 'manage_options', 'columns.php', 'clmns_table_page_render', 'none', 45.1 );
+		add_submenu_page( 'columns.php', __( 'Columns', 'columns-bws' ), __( 'Columns', 'columns-bws' ), 'manage_options', 'columns.php', 'clmns_table_page_render' );
 
 		if ( isset( $_GET['clmns_id'] ) ) {
 			$column_page = add_submenu_page( 'columns.php', __( 'Edit Columns', 'columns-bws' ), __( 'Add New', 'columns-bws' ), 'manage_options', 'column-new.php', 'clmns_add_new_render' );
@@ -738,9 +739,10 @@ if ( ! function_exists ( 'clmns_shortcode' ) ) {
 					/* Column description */
 					$column_description 	= $column['description'];
 					/* Get image for media ID */
+					
 					$column_attachment	= ( ! empty( $column['attachment_id'] ) ) ? wp_get_attachment_thumb_url( $column['attachment_id'] ) : false; ?>
 					<div class="clmns-bws-column <?php echo $column_class; ?>">
-						<div class="clmns-column-background-wrapper clmns-column-border-wrapper" <?php if ( ! empty( $column_attachment ) && ( 'background_left' == $column_single_settings['image_position'] || 'background_center' == $column_single_settings['image_position'] ) ) echo 'style="background-image: url(' . $column_attachment . ')"'; ?>>
+						<div class="clmns-column-background-wrapper <?php echo 'columns-bws-icon-' . $column_single_settings['image_position'] . '-wrapper' ?> clmns-column-border-wrapper" <?php if ( ! empty( $column_attachment ) && ( 'background_left' == $column_single_settings['image_position'] || 'background_center' == $column_single_settings['image_position'] ) ) echo 'style="background-image: url(' . $column_attachment . ')"'; ?>>
 							<?php if( 'left_title' == $column_single_settings['image_position'] || 'left_title_desc' == $column_single_settings['image_position'] ) { ?>
 								<div class="d-flex justify-content-start">
 							<?php }
