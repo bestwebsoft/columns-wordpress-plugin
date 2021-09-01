@@ -53,4 +53,4 @@
 <h4>Recommended Plugins</h4>
 <ul>
 <li><a href="https://bestwebsoft.com/products/wordpress/plugins/quotes-and-tips/" rel="nofollow ugc">Quotes and Tips</a> &#8211; Adds customizable quotes and tips blocks to WordPress posts, pages and widgets.</li>
-</ul>
+</ul> 
