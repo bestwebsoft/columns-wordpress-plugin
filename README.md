@@ -3,6 +3,7 @@
 
 <p>Columns plugin is a simple solution that helps to add columns with custom content to your WordPress website pages, posts, custom pages, widgets by means of shortcodes. Create and store unlimited column sets with specific settings, customize the appearance, change the content inside each column and paste its shortcode to display the individual column sets wherever you like.</p>
 <p>Organize your content into a beautiful layout easily!</p>
+<p><a href="https://bestwebsoft.com/demo-columns-by-bestwebsoft/?ref=readme" rel="nofollow ugc">View Demo</a></p>
 <h4>Features</h4>
 <ul>
 <li>Add the unlimited number of column sets with up to ten columns in a row</li>
@@ -42,10 +43,13 @@
 <li>Multilingual  and RTL ready</li>
 </ul>
 <p>If you have a feature suggestion or idea you&#8217;d like to see in the plugin, we&#8217;d love to hear about it! <a href="https://support.bestwebsoft.com/hc/en-us/requests/new" rel="nofollow ugc">Suggest a Feature</a></p>
+<h4>Documentation &amp; Videos</h4>
+<ul>
+<li><a href="https://docs.google.com/document/d/1FJ07SdZdJn8WyIKJuIhG4N7Gg4c7QgD-ThYQzGid7-Y/" rel="nofollow ugc">[Doc] User Guide</a></li>
+<li><a href="https://docs.google.com/document/d/1-hvn6WRvWnOqj5v5pLUk7Awyu87lq5B_dO-Tv-MC9JQ/" rel="nofollow ugc">[Doc] Installation</a></li>
+</ul>
 <h4>Help &amp; Support</h4>
 <p>Visit our Help Center if you have any questions, our friendly Support Team is happy to help — <a href="https://support.bestwebsoft.com/" rel="nofollow ugc">https://support.bestwebsoft.com/</a></p>
-<h4>Affiliate Program</h4>
-<p>Earn 20% commission by selling the premium WordPress plugins and themes by BestWebSoft — <a href="https://bestwebsoft.com/affiliate/" rel="nofollow">https://bestwebsoft.com/affiliate/</a></p>
 <h4>Translation</h4>
 <ul>
 <li>Russian (ru_RU)</li>
@@ -55,4 +59,4 @@
 <h4>Recommended Plugins</h4>
 <ul>
 <li><a href="https://bestwebsoft.com/products/wordpress/plugins/quotes-and-tips/" rel="nofollow ugc">Quotes and Tips</a> &#8211; Adds customizable quotes and tips blocks to WordPress posts, pages and widgets.</li>
-</ul> 
+</ul>

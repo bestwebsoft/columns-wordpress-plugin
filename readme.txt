@@ -1,10 +1,10 @@
-﻿=== Columns by BestWebSoft ===
+﻿=== Columns by BestWebSoft - Additional Columns Plugin for Posts Pages and Widgets ===
 Contributors: bestwebsoft
 Donate link: https://bestwebsoft.com/donate/
 Tags: plugin, wordpress, pages, posts, column, columns, widgets, customize, forms, content, individual, background, row, simple
 Requires at least: 4.5
-Tested up to: 5.5.1
-Stable tag: 1.0.1
+Tested up to: 5.9
+Stable tag: 1.0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -15,6 +15,8 @@ Add columns with custom content to WordPress website pages, posts, widgets, etc.
 Columns plugin is a simple solution that helps to add columns with custom content to your WordPress website pages, posts, custom pages, widgets by means of shortcodes. Create and store unlimited column sets with specific settings, customize the appearance, change the content inside each column and paste its shortcode to display the individual column sets wherever you like.
 
 Organize your content into a beautiful layout easily!
+
+[View Demo](https://bestwebsoft.com/demo-columns-by-bestwebsoft/?ref=readme)
 
 = Features =
 
@@ -46,6 +48,11 @@ Organize your content into a beautiful layout easily!
 * Multilingual  and RTL ready
 
 If you have a feature suggestion or idea you'd like to see in the plugin, we'd love to hear about it! [Suggest a Feature](https://support.bestwebsoft.com/hc/en-us/requests/new)
+
+= Documentation & Videos =
+
+* [[Doc] User Guide](https://docs.google.com/document/d/1FJ07SdZdJn8WyIKJuIhG4N7Gg4c7QgD-ThYQzGid7-Y/)
+* [[Doc] Installation](https://docs.google.com/document/d/1-hvn6WRvWnOqj5v5pLUk7Awyu87lq5B_dO-Tv-MC9JQ/)
 
 = Help & Support =
 
@@ -105,6 +112,10 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 
 == Changelog ==
 
+= V1.0.2 - 21.03.2022 = 
+* Update : Funcionality was updated for WordPress 5.9.
+* Update : BWS plugins section is updated.
+
 = V1.0.1 - 14.09.2020 = 
 * Bugfix : The bug with Color widget Background was fixed.
 * Bugfix : The bug with background image was fixed.
@@ -114,6 +125,9 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 * NEW : Plugin was added.
 
 == Upgrade Notice ==
+
+= V1.0.2 =
+* Usability improved.
 
 = V1.0.1 =
 * Bugs fixed.

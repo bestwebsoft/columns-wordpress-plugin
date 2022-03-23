@@ -6,7 +6,7 @@ Description: Add columns with custom content to WordPress website pages, posts, 
 Author: BestWebSoft
 Text Domain: columns-bws
 Domain Path: /languages
-Version: 1.0.1
+Version: 1.0.2
 Author URI: https://bestwebsoft.com/
 License: GPLv3 or later
 */
