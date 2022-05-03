@@ -4,7 +4,7 @@ Donate link: https://bestwebsoft.com/donate/
 Tags: plugin, wordpress, pages, posts, column, columns, widgets, customize, forms, content, individual, background, row, simple
 Requires at least: 4.5
 Tested up to: 5.9
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -112,6 +112,9 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 
 == Changelog ==
 
+= V1.0.3 - 26.03.2022 = 
+* Bugfix : Deactivation Feedback fix.
+
 = V1.0.2 - 21.03.2022 = 
 * Update : Funcionality was updated for WordPress 5.9.
 * Update : BWS plugins section is updated.
@@ -125,6 +128,9 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 * NEW : Plugin was added.
 
 == Upgrade Notice ==
+
+= V1.0.3 =
+* Bugs fixed.
 
 = V1.0.2 =
 * Usability improved.
